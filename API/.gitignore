@@ -1,0 +1,50 @@
+# Ignorar arquivos de compilação
+bin/
+obj/
+
+# Ignorar arquivos de configuração
+*.suo
+*.user
+*.sln.docstates
+# Ignorar arquivos de compilação
+bin/
+obj/
+
+# Ignorar arquivos de configuração
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar arquivos de log e cache
+*.log
+*.cache
+
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar arquivos de saída de publicação
+publish/
+
+# Ignorar pasta de pacotes NuGet
+packages/
+
+# Ignorar pasta de dependências de build do Visual Studio
+.vscode/
+.vs/
+
+# Ignorar arquivos de log e cache
+*.log
+*.cache
+
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar arquivos de saída de publicação
+publish/
+
+# Ignorar pasta de pacotes NuGet
+packages/
+
+# Ignorar pasta de dependências de build do Visual Studio
+.vscode/
+.vs/
